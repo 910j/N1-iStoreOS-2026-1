@@ -23,7 +23,7 @@ https://docs.reiz.link/openwrt/nikki/
 #####  DHCP/DNS 插件设置：
 
 <img width="1664" height="813" alt="3" src="https://github.com/user-attachments/assets/863ca41d-bbd9-4adb-b1d5-feff2154e9fa" />
-
+                                                                                                                   ↓ ↓
 <img width="1677" height="967" alt="4" src="https://github.com/user-attachments/assets/88f0cabd-cec4-4dd0-87a1-b6050822929b" />
 <img width="1646" height="942" alt="5" src="https://github.com/user-attachments/assets/4ba49d00-02a5-46c7-ad93-ce30673e1972" />
 <img width="1683" height="947" alt="6" src="https://github.com/user-attachments/assets/7079310e-218f-44c9-acb1-e0b76708d297" />
