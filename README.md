@@ -11,7 +11,7 @@ https://docs.reiz.link/openwrt/nikki/
 
 # 斐讯N1 iStoreOS Openclsh配置-2026
 
-###  DHCP/DNS ：
+#####   DHCP/DNS ：
 
 
 ###  DHCP/DNS 插件设置：
